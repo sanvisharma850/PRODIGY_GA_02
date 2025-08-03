@@ -10,12 +10,13 @@ This app provides a clean and minimal Streamlit UI to visualize generated images
 - 📦 Lightweight and beginner-friendly codebase
 
 
-🧪 Future Work
+## 🧪 Future Work
 Add multiple prompt inputs
 Save image history
 Choose between multiple SD models (v1.5, v2.1)
 Add dark/light mode toggle for UI
 
 
-👨‍💻 Author
+###👨‍💻 Author
 Sanvi Sharma
+
