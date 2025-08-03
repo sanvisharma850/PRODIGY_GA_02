@@ -1,0 +1,9 @@
+
+---
+
+## ✅ `requirements.txt`
+
+```txt
+streamlit
+python-dotenv
+requests
