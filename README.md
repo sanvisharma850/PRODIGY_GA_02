@@ -17,6 +17,7 @@ Choose between multiple SD models (v1.5, v2.1)
 Add dark/light mode toggle for UI
 
 
-###👨‍💻 Author
+##👨‍💻 Author
 Sanvi Sharma
+
 
